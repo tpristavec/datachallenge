@@ -23,8 +23,8 @@ This file is provided to document data transformation and does not need to be re
 - `ec_code`: EC code (4-8 digit food code or ingredient code); character.
 - `ec_description`: Product name; character.
 
-## 03-link.R
-The challenge goal is to match each UPC with a single EC. This file reads in `data_amazon.csv` and `data_fndds.csv`, and attempts a simple match of each UPC code (food item) from the former with an EC code from the latter. It implements two methods from the `RecordLinkage` package and four methods from the `fuzzyjoin` package to do so. The resulting data frames contain the top 3 `data_fndds.csv` EC matches for UPC codes from `data_amazon.csv` (more than 3 if there is a score tie, fewer if there are no matches that satisfy the threshold criterion). The data frames are sorted by link strength by default, but can also be sorted by UPC code to show which candidate EC codes were linked to a given UPC code. 
+## Linking fictional IRI and FNDDS food data
+The challenge goal is to match each UPC with a single EC. This file reads in fictional IRI data from `data_amazon.csv` and FNDDS data from `data_fndds.csv`, and attempts a simple match of each UPC code (food item) from the former with an EC code from the latter. It implements two methods from the `RecordLinkage` package and four methods from the `fuzzyjoin` package to do so. The resulting data frames contain the top 3 `data_fndds.csv` EC matches for UPC codes from `data_amazon.csv` (more than 3 if there is a score tie, fewer if there are no matches that satisfy the threshold criterion). The data frames are sorted by link strength by default, but can also be sorted by UPC code to show which candidate EC codes were linked to a given UPC code.
 
 The resulting matches are shown in the following `data/output/` files:
 - `RecordLinkage` results: `data_rl_jarowinkler.csv`, `data_rl_levenshteinSim.csv`
