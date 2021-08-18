@@ -28,6 +28,6 @@ The challenge goal is to match each UPC with a single EC. This file reads in fic
 
 The resulting matches are shown in the following `data/output/` files:
 - `RecordLinkage` results: `data_rl_jarowinkler.csv`, `data_rl_levenshteinSim.csv`
-- `fuzzyjoin` results: `data_jarowinkler.csv`, `data_levenshtein.csv`
+- `fuzzyjoin` results: `data_fj_jw.csv`, `data_fj_lcs.csv`, `data_fj_lv.csv`, `data_fj_osa.csv`
 
 This file illustrates a simplified matching problem of associating each UPC code with a suitable EC code; it does not employ blocking, machine learning, or use any features to predict matches. In the challenge, teams will be free to implement any natural language processing or machine learning algorithm of their choice, using all available data to find a single EC match for each UPC code.
