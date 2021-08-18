@@ -7,19 +7,19 @@ library(dplyr)
 #
 
 # Main food description table
-maindesc <- read_csv("./data/mainfooddesc1718.csv", 
+maindesc <- read_csv("./data/fndds/mainfooddesc1718.csv", 
                      col_types = cols(Food_code = col_character())) %>%
             select(-starts_with("WWEIA"), -contains("date")) %>%
             arrange(desc(Food_code))
 
 # Additional food description table
-adddesc <- read_csv("./data/addfooddesc1718.csv", 
+adddesc <- read_csv("./data/fndds/addfooddesc1718.csv", 
                     col_types = cols(Food_code = col_character())) %>%
            select(-contains("date")) %>%
            arrange(desc(Food_code))
 
 # Ingredients table
-ingred <- read_csv("./data/fnddsingred1718.csv", 
+ingred <- read_csv("./data/fndds/fnddsingred1718.csv", 
                    col_types = cols(Food_code = col_character(), Ingredient_code = col_character())) %>%
           select(-Amount, -Measure, -Portion_code, -Retention_code, -Ingredient_weight, -contains("date")) %>%
           arrange(desc(Ingredient_code))  %>%
