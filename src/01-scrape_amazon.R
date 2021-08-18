@@ -88,5 +88,5 @@ data <- data %>% select(upc_code, upc_description, aisle)
 # Write --------------------------------------------------------
 #
 
-write_rds(data, "./data/data_amazon.rds")
+write_csv(data, "./data/input/data_amazon.csv")
   

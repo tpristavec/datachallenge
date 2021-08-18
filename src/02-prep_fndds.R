@@ -84,4 +84,4 @@ data_fndds <- data_fndds %>%
 
 rm(list = setdiff(ls(), "data_fndds")) 
 
-write_rds(data_fndds, "./data/data_fndds.rds")
+write_csv(data_fndds, "./data/input/data_fndds.csv")

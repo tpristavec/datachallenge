@@ -11,8 +11,8 @@ options(scipen = 999)
 # Read in ------------------------------------------------------
 #
 
-data_amazon <- read_rds("./data/data_amazon.rds")
-data_fndds <- read_rds("./data/data_fndds.rds")
+data_amazon <- read_csv("./data/input/data_amazon.csv", col_types = cols(.default = "c"))
+data_fndds <- read_csv("./data/input/data_fndds.csv", col_types = cols(.default = "c"))
 
 
 #
@@ -46,6 +46,10 @@ for (val in 1:length(methods)) {
 # Clean up
 rm(df, df_full, df_weights, input_amazon, input_fndds, methods, val)
 
+# Write
+write_csv(data_jarowinkler, "./data/output/data_rl_jarowinkler.csv")
+write_csv(data_levenshteinSim, "./data/output/data_rl_levenshteinSim.csv")
+
 
 #
 # Implement fuzzyjoin ------------------------------------------------------
@@ -74,4 +78,10 @@ for (val in 1:length(methods)) {
 
 # Clean up
 rm(methods, val, df)
+
+# Write
+write_csv(data_jw, "./data/output/data_fj_jw.csv")
+write_csv(data_lcs, "./data/output/data_fj_lcs.csv")
+write_csv(data_lv, "./data/output/data_fj_lv.csv")
+write_csv(data_osa, "./data/output/data_fj_osa.csv")
                         

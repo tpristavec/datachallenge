@@ -1,0 +1,281 @@
+upc_code,upc_description,aisle,ec_code,ec_description,dist
+46365901307,Lime,fruit,81202000,Lard,3
+46365901307,Lime,fruit,62110100,Date,3
+46365901307,Lime,fruit,16112,Miso,3
+91803689874,Red Onion,vegetables,51121110,"Bread, onion",3
+22264521268,Garlic,vegetables,81202000,Lard,4
+66444813288,"Brussels Sprouts, 1 lb",vegetables,75102750,"Brussels sprouts, raw",4
+69110795444,"Blueberries, 6 oz",fruit,63203600,"Blueberries, frozen",4
+69110795444,"Blueberries, 6 oz",fruit,9050,"Blueberries, raw",4
+73456003079,"Blackberries, 6 oz",fruit,9042,"Blackberries, raw",4
+80105187075,Lemon,fruit,81202000,Lard,4
+80105187075,Lemon,fruit,16112,Miso,4
+80105187075,Lemon,fruit,71980100,Poi,4
+80105187075,Lemon,fruit,91703070,Rolo,4
+80105187075,Lemon,fruit,52105100,Scone,4
+91721772277,"Strawberries, 1 lb",fruit,9316,"Strawberries, raw",4
+22264521268,Garlic,vegetables,75111500,"Garlic, raw",5
+22264521268,Garlic,vegetables,11935,Catsup,5
+22264521268,Garlic,vegetables,62110100,Date,5
+22264521268,Garlic,vegetables,19300,Jellies,5
+22264521268,Garlic,vegetables,16113,Natto,5
+22264521268,Garlic,vegetables,75440400,Pakora,5
+22264521268,Garlic,vegetables,42200,Papad,5
+22264521268,Garlic,vegetables,71980100,Poi,5
+22264521268,Garlic,vegetables,62125100,Raisins,5
+22264521268,Garlic,vegetables,91703070,Rolo,5
+22264521268,Garlic,vegetables,27064,Wasabi,5
+22264521268,Garlic,vegetables,93302100,Zombie,5
+43345897254,Cantaloupe Melon,fruit,64202010,Cantaloupe nectar,5
+66293651745,Broccoli,vegetables,72201100,"Broccoli, raw",5
+66293651745,Broccoli,vegetables,51167000,Brioche,5
+66293651745,Broccoli,vegetables,91703070,Rolo,5
+69110795444,"Blueberries, 6 oz",fruit,62105000,"Blueberries, dried",5
+72578070750,Ginger Root,vegetables,11216,"Ginger root, raw",5
+96059902586,"Blueberries, 1 Pint",fruit,62105000,"Blueberries, dried",5
+45870075878,Yellow Onion,vegetables,51121110,"Bread, onion",6
+48679739474,Russet Potato,vegetables,18971,"Bread, potato",6
+67703551996,Red Mango,fruit,75416500,Pea salad,6
+74645586082,Organic Garlic,vegetables,51156500,"Roll, garlic",6
+82657301871,Fuji Apple,fruit,13140900,Fudgesicle,6
+91721772277,"Strawberries, 1 lb",fruit,63223110,"Strawberries, canned",6
+91721772277,"Strawberries, 1 lb",fruit,63223610,"Strawberries, frozen",6
+91803689874,Red Onion,vegetables,1057,Eggnog,6
+91803689874,Red Onion,vegetables,93301135,Rob Roy,6
+91803689874,Red Onion,vegetables,91703070,Rolo,6
+96059902586,"Blueberries, 1 Pint",fruit,63203600,"Blueberries, frozen",6
+96059902586,"Blueberries, 1 Pint",fruit,9050,"Blueberries, raw",6
+22374075100,Navel Orange,fruit,72119190,"Kale, raw",7
+22374075100,Navel Orange,fruit,41201010,Baked beans,7
+22374075100,Navel Orange,fruit,19097,"Sherbet, orange",7
+35652824971,Gala Apples,fruit,91303000,Molasses,7
+35652824971,Gala Apples,fruit,93301010,Alexander,7
+35652824971,Gala Apples,fruit,13121120,Banana split,7
+35652824971,Gala Apples,fruit,41209000,Falafel,7
+35652824971,Gala Apples,fruit,23150100,"Goat, boiled",7
+35652824971,Gala Apples,fruit,91407100,Guava paste,7
+35652824971,Gala Apples,fruit,74402100,"Salsa, NFS",7
+35652824971,Gala Apples,fruit,41304000,Wasabi peas,7
+35652824971,Gala Apples,fruit,71930190,Yuca fries,7
+48679739474,Russet Potato,vegetables,53360000,"Pie, sweet potato",7
+67703551996,Red Mango,fruit,27250040,Crab cake,7
+67703551996,Red Mango,fruit,41201010,Baked beans,7
+67703551996,Red Mango,fruit,27416250,Beef salad,7
+67703551996,Red Mango,fruit,18027,"Bread, egg",7
+67703551996,Red Mango,fruit,52403000,"Bread, nut",7
+67703551996,Red Mango,fruit,51121110,"Bread, onion",7
+67703551996,Red Mango,fruit,55400010,"Crepe, NFS",7
+67703551996,Red Mango,fruit,62110100,Date,7
+67703551996,Red Mango,fruit,1057,Eggnog,7
+67703551996,Red Mango,fruit,93301310,Mai Tai,7
+67703551996,Red Mango,fruit,20000000,"Meat, NFS",7
+67703551996,Red Mango,fruit,16112,Miso,7
+67703551996,Red Mango,fruit,16113,Natto,7
+67703551996,Red Mango,fruit,75226700,Pimiento,7
+67703551996,Red Mango,fruit,62125100,Raisins,7
+67703551996,Red Mango,fruit,54319500,Rice paper,7
+67703551996,Red Mango,fruit,93301135,Rob Roy,7
+67703551996,Red Mango,fruit,91703070,Rolo,7
+67703551996,Red Mango,fruit,11320000,Soy milk,7
+72578070750,Ginger Root,vegetables,63119010,"Fig, raw",7
+72578070750,Ginger Root,vegetables,9089,"Figs, raw",7
+72578070750,Ginger Root,vegetables,93301600,Gin fizz,7
+72578070750,Ginger Root,vegetables,93301330,Gin Rickey,7
+72578070750,Ginger Root,vegetables,61116010,"Lime, raw",7
+72578070750,Ginger Root,vegetables,75230000,Sauerkraut,7
+72578070750,Ginger Root,vegetables,93301290,Stinger,7
+72578070750,Ginger Root,vegetables,64401000,Vinegar,7
+72578070750,Ginger Root,vegetables,93403000,"Wine, light",7
+73456003079,"Blackberries, 6 oz",fruit,63203600,"Blueberries, frozen",7
+73456003079,"Blackberries, 6 oz",fruit,9050,"Blueberries, raw",7
+82657301871,Fuji Apple,fruit,41209000,Falafel,7
+82657301871,Fuji Apple,fruit,53415120,"Fritter, apple",7
+82657301871,Fuji Apple,fruit,93301370,Fuzzy Navel,7
+82657301871,Fuji Apple,fruit,93301085,Kamikaze,7
+82657301871,Fuji Apple,fruit,18354,"Strudel, apple",7
+82657301871,Fuji Apple,fruit,13252590,Trifle,7
+96041947986,"Asparagus, 1 Bunch",vegetables,75100800,"Asparagus, raw",7
+14404237262,Organic Lemon,fruit,51121110,"Bread, onion",8
+41882642038,Gold Pineapple,fruit,53410100,"Cobbler, apple",8
+45870075878,Yellow Onion,vegetables,75132100,Celery juice,8
+45870075878,Yellow Onion,vegetables,19300,Jellies,8
+45870075878,Yellow Onion,vegetables,82104000,Olive oil,8
+45870075878,Yellow Onion,vegetables,27360090,"Paella, NFS",8
+45870075878,Yellow Onion,vegetables,82105000,Peanut oil,8
+45870075878,Yellow Onion,vegetables,51154510,"Roll, diet",8
+45870075878,Yellow Onion,vegetables,82107000,Sesame oil,8
+45870075878,Yellow Onion,vegetables,82108700,Walnut oil,8
+48679739474,Russet Potato,vegetables,51134000,"Bread, sweet potato",8
+48679739474,Russet Potato,vegetables,51136000,Bruschetta,8
+48679739474,Russet Potato,vegetables,58122220,"Gnocchi, potato",8
+48679739474,Russet Potato,vegetables,26313100,"Mussels, raw",8
+48679739474,Russet Potato,vegetables,12142,"Nuts, pecans",8
+48679739474,Russet Potato,vegetables,14134000,Queso cotija,8
+48679739474,Russet Potato,vegetables,93301136,Rusty Nail,8
+74645586082,Organic Garlic,vegetables,51801010,"Bread, barley",8
+92229363591,Red Bell Pepper,vegetables,54319500,Rice paper,8
+96165588989,"Red Raspberries, 6 oz",fruit,63219610,"Raspberries, frozen",8
+96165588989,"Red Raspberries, 6 oz",fruit,9302,"Raspberries, raw",8
+14404237262,Organic Lemon,fruit,27250040,Crab cake,9
+14404237262,Organic Lemon,fruit,91735000,Pralines,9
+14404237262,Organic Lemon,fruit,91104100,"Sugar, cinnamon",9
+14404237262,Organic Lemon,fruit,42102000,Brazil nuts,9
+14404237262,Organic Lemon,fruit,28315,"Bread, cinnamon",9
+14404237262,Organic Lemon,fruit,18027,"Bread, egg",9
+14404237262,Organic Lemon,fruit,51804010,"Bread, soy",9
+14404237262,Organic Lemon,fruit,13140900,Fudgesicle,9
+14404237262,Organic Lemon,fruit,81301000,Garlic sauce,9
+14404237262,Organic Lemon,fruit,28500040,"Gravy, beef",9
+14404237262,Organic Lemon,fruit,27415140,Hunan beef,9
+14404237262,Organic Lemon,fruit,27450310,Lomi salmon,9
+14404237262,Organic Lemon,fruit,91726000,"Nougat, plain",9
+14404237262,Organic Lemon,fruit,4529,"Oil, almond",9
+14404237262,Organic Lemon,fruit,75507000,"Okra, pickled",9
+14404237262,Organic Lemon,fruit,28310150,Oxtail soup,9
+14404237262,Organic Lemon,fruit,41208030,Pork and beans,9
+14404237262,Organic Lemon,fruit,91102010,"Sugar, brown",9
+14404237262,Organic Lemon,fruit,19334,"Sugars, brown",9
+14404237262,Organic Lemon,fruit,13252590,Trifle,9
+14404237262,Organic Lemon,fruit,41304000,Wasabi peas,9
+29948812460,Green Bell Pepper,vegetables,75500110,"Green beans, pickled",9
+41882642038,Gold Pineapple,fruit,53415120,"Fritter, apple",9
+41882642038,Gold Pineapple,fruit,28522000,Mole sauce,9
+41882642038,Gold Pineapple,fruit,82104000,Olive oil,9
+41882642038,Gold Pineapple,fruit,18354,"Strudel, apple",9
+41882642038,Gold Pineapple,fruit,20088,"Wild rice, raw",9
+63408357468,"Cucumber, One Count",vegetables,75111000,"Cucumber, raw",9
+74645586082,Organic Garlic,vegetables,13121120,Banana split,9
+74645586082,Organic Garlic,vegetables,81301000,Garlic sauce,9
+74645586082,Organic Garlic,vegetables,93301310,Mai Tai,9
+74645586082,Organic Garlic,vegetables,74501010,Tomato aspic,9
+78985501471,Honeycrisp Apples,fruit,53410100,"Cobbler, apple",9
+92229363591,Red Bell Pepper,vegetables,91734200,Reese's Pieces,9
+10044791323,Organic Cucumber,vegetables,75216153,"Corn, creamed",10
+10044791323,Organic Cucumber,vegetables,81301000,Garlic sauce,10
+29948812460,Green Bell Pepper,vegetables,13210370,Creme brulee,10
+29948812460,Green Bell Pepper,vegetables,75120000,"Green peas, raw",10
+29948812460,Green Bell Pepper,vegetables,91734200,Reese's Pieces,10
+29948812460,Green Bell Pepper,vegetables,54319500,Rice paper,10
+43345897254,Cantaloupe Melon,fruit,13210350,"Flan, Leche flan",10
+43345897254,Cantaloupe Melon,fruit,93301280,Singapore Sling,10
+78985501471,Honeycrisp Apples,fruit,53415120,"Fritter, apple",10
+78985501471,Honeycrisp Apples,fruit,81322000,Honey butter,10
+92229363591,Red Bell Pepper,vegetables,53410850,"Cobbler, pear",10
+92229363591,Red Bell Pepper,vegetables,27214500,Corned beef patty,10
+92229363591,Red Bell Pepper,vegetables,13210370,Creme brulee,10
+92229363591,Red Bell Pepper,vegetables,26113190,"Eel, smoked",10
+92229363591,Red Bell Pepper,vegetables,41205010,Refried beans,10
+92229363591,Red Bell Pepper,vegetables,18354,"Strudel, apple",10
+92229363591,Red Bell Pepper,vegetables,53440700,"Strudel, peach",10
+96165588989,"Red Raspberries, 6 oz",fruit,63207010,"Cranberries, raw",10
+96165588989,"Red Raspberries, 6 oz",fruit,63223610,"Strawberries, frozen",10
+96165588989,"Red Raspberries, 6 oz",fruit,9316,"Strawberries, raw",10
+10044791323,Organic Cucumber,vegetables,27250040,Crab cake,11
+10044791323,Organic Cucumber,vegetables,64201500,Banana nectar,11
+10044791323,Organic Cucumber,vegetables,25150000,"Brains, cooked",11
+10044791323,Organic Cucumber,vegetables,42102000,Brazil nuts,11
+10044791323,Organic Cucumber,vegetables,18972,"Bread, cheese",11
+10044791323,Organic Cucumber,vegetables,1007,"Cheese, camembert",11
+10044791323,Organic Cucumber,vegetables,14103010,"Cheese, Camembert",11
+10044791323,Organic Cucumber,vegetables,75411020,Corn fritter,11
+10044791323,Organic Cucumber,vegetables,26305180,"Crab, canned",11
+10044791323,Organic Cucumber,vegetables,32101000,"Egg, creamed",11
+10044791323,Organic Cucumber,vegetables,75217400,"Garlic, cooked",11
+10044791323,Organic Cucumber,vegetables,93301330,Gin Rickey,11
+10044791323,Organic Cucumber,vegetables,81322000,Honey butter,11
+10044791323,Organic Cucumber,vegetables,64204010,Mango nectar,11
+10044791323,Organic Cucumber,vegetables,81102020,"Margarine, tub",11
+10044791323,Organic Cucumber,vegetables,75507000,"Okra, pickled",11
+10044791323,Organic Cucumber,vegetables,28310150,Oxtail soup,11
+10044791323,Organic Cucumber,vegetables,42204050,Peanut sauce,11
+10044791323,Organic Cucumber,vegetables,25071,Rice crackers,11
+10044791323,Organic Cucumber,vegetables,54319500,Rice paper,11
+10044791323,Organic Cucumber,vegetables,91715100,SNICKERS Bar,11
+10044791323,Organic Cucumber,vegetables,42203200,Soy nut butter,11
+13429631610,Large Hass Avocado,fruit,18971,"Bread, potato",11
+63408357468,"Cucumber, One Count",vegetables,53410200,"Cobbler, apricot",11
+63408357468,"Cucumber, One Count",vegetables,53305010,"Pie, cherry, one crust",11
+63408357468,"Cucumber, One Count",vegetables,53307050,"Pie, peach, one crust",11
+81470670078,Large Hass Avocado,vegetables,18971,"Bread, potato",11
+92564980714,Organic Fuji Apples,fruit,53415120,"Fritter, apple",11
+96041947986,"Asparagus, 1 Bunch",vegetables,18349,"Rolls, french",11
+96041947986,"Asparagus, 1 Bunch",vegetables,75100300,"Sprouts, NFS",11
+13429631610,Large Hass Avocado,fruit,18968,"Bagels, wheat",12
+13429631610,Large Hass Avocado,fruit,75416500,Pea salad,12
+13429631610,Large Hass Avocado,fruit,26139110,"Sardines, cooked",12
+44258316860,Small Hass Avocado,fruit,20032,"Millet, cooked",12
+44258316860,Small Hass Avocado,fruit,28522000,Mole sauce,12
+44258316860,Small Hass Avocado,fruit,93301130,Old fashioned,12
+44258316860,Small Hass Avocado,fruit,75416500,Pea salad,12
+44258316860,Small Hass Avocado,fruit,27250080,Salmon loaf,12
+44258316860,Small Hass Avocado,fruit,22621000,"Salt pork, cooked",12
+44258316860,Small Hass Avocado,fruit,26139110,"Sardines, cooked",12
+44258316860,Small Hass Avocado,fruit,27450080,Seafood salad,12
+58917607084,Small Hass Avocado,vegetables,20032,"Millet, cooked",12
+58917607084,Small Hass Avocado,vegetables,28522000,Mole sauce,12
+58917607084,Small Hass Avocado,vegetables,93301130,Old fashioned,12
+58917607084,Small Hass Avocado,vegetables,75416500,Pea salad,12
+58917607084,Small Hass Avocado,vegetables,27250080,Salmon loaf,12
+58917607084,Small Hass Avocado,vegetables,22621000,"Salt pork, cooked",12
+58917607084,Small Hass Avocado,vegetables,26139110,"Sardines, cooked",12
+58917607084,Small Hass Avocado,vegetables,27450080,Seafood salad,12
+66444813288,"Brussels Sprouts, 1 lb",vegetables,75100500,"Alfalfa sprouts, raw",12
+79404644563,"Organic Blueberries, 6 oz",fruit,63203600,"Blueberries, frozen",12
+79404644563,"Organic Blueberries, 6 oz",fruit,9050,"Blueberries, raw",12
+81470670078,Large Hass Avocado,vegetables,18968,"Bagels, wheat",12
+81470670078,Large Hass Avocado,vegetables,75416500,Pea salad,12
+81470670078,Large Hass Avocado,vegetables,26139110,"Sardines, cooked",12
+92564980714,Organic Fuji Apples,fruit,12140000,"Cream, whipped",12
+94368536591,"Organic Strawberries, 1 lb",fruit,9316,"Strawberries, raw",12
+47826336482,"Jalapeno Peppers, 8 oz",vegetables,11974,"Grape leaves, raw",13
+47826336482,"Jalapeno Peppers, 8 oz",vegetables,2030,"Spices, pepper, black",13
+66444813288,"Brussels Sprouts, 1 lb",vegetables,54408400,"Pretzels, soft, NFS",13
+66444813288,"Brussels Sprouts, 1 lb",vegetables,75100300,"Sprouts, NFS",13
+79404644563,"Organic Blueberries, 6 oz",fruit,63207010,"Cranberries, raw",13
+79404644563,"Organic Blueberries, 6 oz",fruit,62105000,"Blueberries, dried",13
+92564980714,Organic Fuji Apples,fruit,62107200,Banana chips,13
+92564980714,Organic Fuji Apples,fruit,42102000,Brazil nuts,13
+92564980714,Organic Fuji Apples,fruit,51801010,"Bread, barley",13
+92564980714,Organic Fuji Apples,fruit,51135000,"Bread, vegetable",13
+92564980714,Organic Fuji Apples,fruit,53410100,"Cobbler, apple",13
+92564980714,Organic Fuji Apples,fruit,75411020,Corn fritter,13
+92564980714,Organic Fuji Apples,fruit,27150020,"Crab, deviled",13
+92564980714,Organic Fuji Apples,fruit,19294,"Fruit butters, apple",13
+92564980714,Organic Fuji Apples,fruit,81301000,Garlic sauce,13
+92564980714,Organic Fuji Apples,fruit,75507000,"Okra, pickled",13
+92564980714,Organic Fuji Apples,fruit,91733000,Peanut brittle,13
+92564980714,Organic Fuji Apples,fruit,54319500,Rice paper,13
+92564980714,Organic Fuji Apples,fruit,18354,"Strudel, apple",13
+92564980714,Organic Fuji Apples,fruit,42500000,"Trail mix, NFS",13
+92564980714,Organic Fuji Apples,fruit,71930190,Yuca fries,13
+47071223397,"Organic Kale, One Bunch",vegetables,75608100,"Onion soup, French",14
+47826336482,"Jalapeno Peppers, 8 oz",vegetables,75120000,"Green peas, raw",14
+47826336482,"Jalapeno Peppers, 8 oz",vegetables,9156,"Lemon peel, raw",14
+47826336482,"Jalapeno Peppers, 8 oz",vegetables,26137190,"Salmon, smoked, lox",14
+47826336482,"Jalapeno Peppers, 8 oz",vegetables,27420470,"Sausage and peppers, no sauce",14
+47826336482,"Jalapeno Peppers, 8 oz",vegetables,11520,"Taro leaves, raw",14
+77974698624,Organic Red Bell Pepper,vegetables,27214500,Corned beef patty,14
+77974698624,Organic Red Bell Pepper,vegetables,54319500,Rice paper,14
+94368536591,"Organic Strawberries, 1 lb",fruit,63207010,"Cranberries, raw",14
+94368536591,"Organic Strawberries, 1 lb",fruit,9302,"Raspberries, raw",14
+94368536591,"Organic Strawberries, 1 lb",fruit,63223110,"Strawberries, canned",14
+94368536591,"Organic Strawberries, 1 lb",fruit,63223610,"Strawberries, frozen",14
+22617531971,Mini Seedless Watermelon,fruit,19074,"Candies, caramels",15
+22617531971,Mini Seedless Watermelon,fruit,41104250,Pinto beans with meat,15
+47071223397,"Organic Kale, One Bunch",vegetables,61210000,"Orange juice, 100%, NFS",15
+47071223397,"Organic Kale, One Bunch",vegetables,12350230,"Ranch dip, regular",15
+47071223397,"Organic Kale, One Bunch",vegetables,19154,"Candies, sesame crunch",15
+47071223397,"Organic Kale, One Bunch",vegetables,24170200,"Chicken, back",15
+47071223397,"Organic Kale, One Bunch",vegetables,54102060,"Crackers, Cuban",15
+47071223397,"Organic Kale, One Bunch",vegetables,54328000,"Crackers, sandwich",15
+47071223397,"Organic Kale, One Bunch",vegetables,12120100,"Cream, half and half",15
+47071223397,"Organic Kale, One Bunch",vegetables,13140700,"Creamsicle, Dreamsicle",15
+47071223397,"Organic Kale, One Bunch",vegetables,91726150,MARS Almond Bar,15
+47071223397,"Organic Kale, One Bunch",vegetables,61122330,"Orange, canned, in syrup",15
+47071223397,"Organic Kale, One Bunch",vegetables,61119010,"Orange, raw, Orange, NFS",15
+47071223397,"Organic Kale, One Bunch",vegetables,18349,"Rolls, french",15
+47071223397,"Organic Kale, One Bunch",vegetables,27450450,"Shrimp creole, no rice",15
+77974698624,Organic Red Bell Pepper,vegetables,27211400,Corned beef hash,15
+94444882989,"English Cucumber, One Count",vegetables,53305010,"Pie, cherry, one crust",15
+94444882989,"English Cucumber, One Count",vegetables,53310000,"Pie, raspberry, one crust",15
+94444882989,"English Cucumber, One Count",vegetables,53312000,"Pie, strawberry, one crust",15
